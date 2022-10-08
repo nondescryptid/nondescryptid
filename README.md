@@ -2,7 +2,7 @@ Hello!
 
 I am curious about open access, privacy and making things that reduce drudgery in daily life. 
 
-Most of my experience is related to frontend (e.g. React/Vue), but I'm trying to learn more about question-answering with BERT at the moment.
+Most of my experience is related to frontend (e.g. React/Vue), but I'm trying to learn more about [question-answering with BERT](https://bert.tomoe.asia) at the moment.
 ```
                     _
                   _(_)_                          wWWWw   _
