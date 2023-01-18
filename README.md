@@ -1,8 +1,7 @@
 Hello! 
 
-I am curious about open access, privacy and making things that reduce drudgery in daily life. 
+I am learning how to be better friends with computers. Curious about open access & liberating judgments from paywalls, privacy and making things that reduce drudgery in daily life. 
 
-Most of my experience is related to frontend (e.g. React/Vue), but I'm trying to learn more about [question-answering with BERT](https://nondescryptid-streamlit-bert-bert-z4cule.streamlitapp.com/) at the moment.
 ```
                     _
                   _(_)_                          wWWWw   _
@@ -13,5 +12,6 @@ Most of my experience is related to frontend (e.g. React/Vue), but I'm trying to
     \ |     \ |/       | / \ | /  \|/       |/    \|      \|/
 jgs \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|// 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-```
 (ascii art by joan g. stark)
+```
+
